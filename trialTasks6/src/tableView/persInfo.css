@@ -1,0 +1,63 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 26, 2023, 10:57:45 AM
+    Author     : User
+*/
+.root{
+    -fx-background-image: url(bg.jpg);
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+}
+.tableview{
+    -fx-color: #C5C6D0;
+}
+#id{
+   -fx-color: #B2D3C2;
+}
+#fname{
+    -fx-color: #B2D3C2;
+}
+#mname{
+    -fx-color: #B2D3C2;
+}
+#lname{
+    -fx-color: #B2D3C2;
+}
+#cntct{
+    -fx-color: #B2D3C2;
+}
+#status{
+    -fx-color: #B2D3C2;
+}
+
+#titleID{
+    -fx-color: "blue";
+}
+/*#insertBtn{
+  -fx-background-color: #022D36;
+  -fx-text-fill: white;
+}*/
+.button {
+   -fx-background-color: #022D36;
+  -fx-text-fill: white;
+  -fx-font-size: 15px;
+  -fx-padding: 2px;
+  -fx-border-radius: 10px;
+}
+.button:hover {
+  -fx-background-color: #82EEFD;
+  -fx-text-fill: #022D36;
+   -fx-border-color: blue;
+   -fx-border: 5px;
+  -fx-padding: 1px;
+   -fx-font-weight: bold;
+}
+/*.button:focused{
+    -fx-border-color: blue;
+    -fx-border: 5px;
+  -fx-background-color: lightcyan;
+  -fx-text-fill: #022D36;
+}*/

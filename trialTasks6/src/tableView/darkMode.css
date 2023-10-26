@@ -1,0 +1,116 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 26, 2023, 10:57:45 AM
+    Author     : User
+*/
+.root{
+    -fx-background-image: url(bg1.jpg);
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+}
+#table{
+    -fx-background-color: gray;
+}
+#t1{
+    -fx-fill: white;
+}
+#t2, #t3, #t4, #t5 {
+    -fx-font-size: 14px; 
+    -fx-text-fill: white; 
+}
+#t6{
+    -fx-fill: white;
+}
+#t7{
+    -fx-fill: white;
+}
+#t8{
+    -fx-fill: white;
+}
+#t9{
+    -fx-fill: white;
+}
+#t10{
+    -fx-fill: white;
+}
+
+/* Style for the Text elements */
+.text-label {
+    -fx-font-size: 14px; /* Set the font size */
+    -fx-fill: white; /* Set the text color to white */
+    -fx-stroke-type: outside; /* Set the stroke type to outside */
+    -fx-stroke-width: 0; /* Set the stroke width */
+}
+#title {
+    -fx-font-size: 26px; /* Set the font size */
+    -fx-fill: white; /* Set the text color to white */
+    -fx-stroke-type: outside; /* Set the stroke type to outside */
+    -fx-stroke-width: 0; /* Set the stroke width */
+}
+
+/* Style for the TextField elements */
+.text-field {
+    -fx-pref-height: 19px; /* Set the preferred height */
+    -fx-pref-width: 181px; /* Set the preferred width */
+}
+
+/* Optional styling for VBox margins (if needed) */
+.text-field-container {
+    -fx-margin-bottom: 8px;
+    -fx-margin-top: 1px;
+}
+
+.columns{
+    -fx-background-color: gray;
+}
+#id{
+   -fx-color: #ACE1AF;
+}
+#fname{
+    -fx-color: #ACE1AF;
+}
+#mname{
+    -fx-color: #ACE1AF;
+}
+#lname{
+    -fx-color: #ACE1AF;
+}
+#cntct{
+    -fx-color: #ACE1AF;
+}
+#status{
+    -fx-color: #ACE1AF;
+}
+
+#titleID{
+    -fx-color: "blue";
+}
+/*#insertBtn{
+  -fx-background-color: #022D36;
+  -fx-text-fill: white;
+}*/
+.button {
+   -fx-background-color: #006A4E;
+  -fx-text-fill: white;
+  -fx-font-size: 15px;
+  -fx-padding: 2px;
+  -fx-border-radius: 10px;
+}
+.button:hover {
+  -fx-background-color: #82EEFD;
+  -fx-text-fill: #022D36;
+   -fx-border-color: blue;
+   -fx-border: 5px;
+   -fx-font-weight: bold;
+}
+
+
+/*.button:focused{
+    -fx-border-color: blue;
+    -fx-border: 5px;
+  -fx-background-color: lightcyan;
+  -fx-text-fill: #022D36;
+}*/
