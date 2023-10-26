@@ -1,6 +1,6 @@
 # Activity5_8
-Activities
-![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/1e339456-0864-44a7-9a92-28e09e609be8)
+Activities 5, 6, 7, and 8.
+Zip file of the SQL ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/1e339456-0864-44a7-9a92-28e09e609be8)
 ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/5ad5900b-ff69-4c23-8437-e697b541225a)
 ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/9e096169-d45f-4b7d-ab33-f4912d148289)
 ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/20bab906-bfd2-4e88-829e-3fbfbcb389b5)
