@@ -1,5 +1,6 @@
 # Activity5_8
 Activities 5, 6, 7, and 8.
+# Group members: https://drive.google.com/file/d/164B7lYLyUMrvgAklhLwktsDV7JzaEA4Q/view?usp=sharing
 Zip file of the SQL
 [attendancesystem.zip](https://github.com/GrinHornet/Activity5_8/files/13179539/attendancesystem.zip)
 
