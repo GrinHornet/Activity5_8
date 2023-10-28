@@ -16,3 +16,5 @@ Zip file of the SQL
 ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/e940608d-25ee-463a-8f76-07dc6ba0c90d)
 # LightMode
 ![image](https://github.com/GrinHornet/Activity5_8/assets/125188016/322d858d-4ad2-41b5-8e96-037f183272a1)
+# Changing modes
+![Changing Modes](https://github.com/GrinHornet/Activity5_8/assets/125188016/9312d673-0121-4d91-98d1-c0a1fe941729)
